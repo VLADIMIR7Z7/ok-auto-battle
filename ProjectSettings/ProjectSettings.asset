@@ -614,10 +614,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 9c50d27d-8361-46f2-b09f-4db38e4712bf
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: ok-auto-battle
+  organizationId: vladimir777zz
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
